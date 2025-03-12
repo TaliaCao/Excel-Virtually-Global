@@ -1,4 +1,4 @@
-**My Excel Virtually Global session materials 2022-2024**
+# My Excel Virtually Global session materials 2022-2024
 
 Author: [Talia Cao](https://www.linkedin.com/in/caongocdathao/)
 
