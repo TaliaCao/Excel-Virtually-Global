@@ -1,0 +1,24 @@
+* Compose step - Signature Logo:
+<img src="data:image/jpeg;base64,@{body('Get_file_content')['$content']}" alt="SP Logo" />
+
+
+
+* Convert time zone step - Base Time's Expression:
+getFutureTime(1,'Year')
+
+
+
+* Email Template:
+
+Dear <<First Name>>,
+
+Thank you for registering for our <<Course Name>> online training course.  An account has been created on our website with the following details:
+
+Website: https://earlibyrd.com/ (either click the link or copy and paste it into your browser)
+Username: <<Email Address>>
+Password (case sensitive): EVG2022
+Expiry date: <<Date>>
+
+To get access, browse to any page on the website and click the Login button in the top right hand corner.  Once you log in, you can follow the links to access the courses that you are enrolled in.
+
+If you have any questions or issues, please don’t hesitate to contact me and I’ll be happy to assist.
