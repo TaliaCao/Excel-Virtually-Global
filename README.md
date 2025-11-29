@@ -1,6 +1,6 @@
 ### My Excel Virtually Global session materials 2022-2025
 
-**Author**: [Talia Cao](https://www.linkedin.com/in/caongocdathao/)
+Author: [**Talia Cao**](https://www.linkedin.com/in/caongocdathao/)
 
 
 * **EVG 2022**: [Process Automation with Power Query, Power Automate and VBA](https://www.linkedin.com/posts/caongocdathao_talia-cao-process-automation-with-power-activity-6991956936481021952-ewrK)
